@@ -1,0 +1,5 @@
+{
+	"convert_path" : "/usr/local/bin/convert",
+    "supported_syntax": ["css", "scss", "sass", "less", "stylus", "css3", "xml", "javascript", "javascript (babel)"],
+	"use_transparency": true
+}

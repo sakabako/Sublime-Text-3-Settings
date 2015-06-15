@@ -1,0 +1,17 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"Color Highlighter",
+		"ColorSchemeSelector",
+		"LESS",
+		"Package Control",
+		"ReactJS",
+		"SublimeLinter",
+		"SublimeLinter-jsxhint",
+		"TypeScript"
+	]
+}
