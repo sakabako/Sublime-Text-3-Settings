@@ -38,12 +38,18 @@
 		"build"
 	],
 	"font_face": "Anonymous Pro",
-	"font_size": 20,
+	"font_size": 21,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"ignored_words":
+	[
+		"desc",
+		"jquery"
+	],
 	"indent_to_bracket": true,
 	"show_full_path": true,
+	"typescript_plugin_tsc_version": "1.7.3",
 	"word_wrap": true
 }

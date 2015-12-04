@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -7,11 +8,12 @@
 		"Babel",
 		"Color Highlighter",
 		"ColorSchemeSelector",
+		"GitGutter",
 		"LESS",
 		"Package Control",
 		"ReactJS",
 		"SublimeLinter",
-		"SublimeLinter-jsxhint",
+		"SublimeLinter-contrib-eslint",
 		"TypeScript"
 	]
 }
