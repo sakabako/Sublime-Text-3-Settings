@@ -1,0 +1,8 @@
+{
+    // Copy any modified settings to `User/Levels.sublime-settings`
+    // otherwise modifications will not survive updates.
+
+    "live": true,
+    "color_scheme": "Packages/User/TricoloreTheme/Tricolore-nobold.tmTheme",
+    "javascript_mode": "mini"
+}
