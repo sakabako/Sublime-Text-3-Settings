@@ -34,7 +34,9 @@
 		"node_modules",
 		"bower_components",
 		"vagrant-configs/src",
-		"build"
+		"build",
+		"decomplector/repos",
+		"dist"
 	],
 	"font_face": "Anonymous Pro",
 	"font_size": 23,
